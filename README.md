@@ -21,15 +21,7 @@ This site is hosted using **GitHub Pages** and built with:
 
 ## 🧠 Purpose
 
-This project is part of my journey to becoming a web developer. It serves as both a learning project and a starting point for building online presence for businesses like:
-
-> **Ugande and Sons** – A computer shop where people can:
-> - Print documents
-> - Type assignments
-> - Edit texts
-> - Book job appointments (soon online)
-
----
+This project is part of my journey to becoming a web developer. It serves as both a learning project and a starting point for building online presence.
 
 ## 🛠️ Technologies Used
 
